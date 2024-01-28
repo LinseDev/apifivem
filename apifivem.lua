@@ -1,3 +1,3 @@
-function synsecurecall(weapon)
-  print("teste")
+function synsecurecall(content)
+  print("ola", content)
 end
